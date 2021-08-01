@@ -1,0 +1,1 @@
+Este projeto apresenta uma análise exploratória dos dados de produção de petróleo onshore do Brasil com a linguagem Python. Tais dados estão disponíveis no site da Agência Nacional de Petróleo (http://www.anp.gov.br/conteudo-do-menu-superior/31-dados-abertos/5538-producao-de-petroleo-e-gas-natural-nacional).
